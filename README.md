@@ -25,5 +25,6 @@ Written in Python using OOP principles.
 
 Example
 
-![image](https://user-images.githubusercontent.com/126071672/230127444-83ba81c1-1b24-46d2-b99f-bb83f80a23da.png)
-![image](https://user-images.githubusercontent.com/126071672/230127585-50b043dc-c167-4283-8e9e-8eb3e382ccf7.png)
+![image](https://user-images.githubusercontent.com/126071672/230128061-e628f6a8-2588-42a5-8076-974b39445f59.png)
+![image](https://user-images.githubusercontent.com/126071672/230128149-c509e277-1ac9-473f-8b67-0687287ad96e.png)
+
